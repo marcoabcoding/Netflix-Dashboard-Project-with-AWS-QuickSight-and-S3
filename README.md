@@ -1,5 +1,6 @@
 ## Netflix Dashboard Project with Amazon QuickSight
-# This repository contains a project that visualizes Netflix data using Amazon QuickSight, a cloud-powered Business Intelligence (BI) service. The project demonstrates how to create interactive dashboards and data visualizations by integrating an AWS S3 environment for data storage and management.
+
+This repository contains a project that visualizes Netflix data using Amazon QuickSight, a cloud-powered Business Intelligence (BI) service. The project demonstrates how to create interactive dashboards and data visualizations by integrating an AWS S3 environment for data storage and management.
 
 Key Features:
 AWS S3 Integration: Data and manifest files are uploaded to S3, serving as the source for the QuickSight dashboard.
