@@ -12,7 +12,7 @@ This repository contains a project that visualizes Netflix data using Amazon Qui
 ### QuickSight Setup: Easy-to-follow steps on setting up a QuickSight account and connecting it with an S3 bucket.
 
 ## Tools Used:
-###Amazon QuickSight: For creating and sharing dashboards.
+### Amazon QuickSight: For creating and sharing dashboards.
 
 ### AWS S3: For data storage.
 
